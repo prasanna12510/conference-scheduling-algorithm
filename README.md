@@ -5,8 +5,8 @@ event scheduling for conference management
 1. Go to home folder of project.
 2. Execute `mvn clean install`
 3. Go to newly created `target` folder.
-4. Execute `java -jar <executable.jar>`
-OR
+4. Execute `java -jar <executable.jar>` <br />
+OR <br />
 1. Go to src/scheduler
 2. Execute `java SchedulerMain.java`
 
