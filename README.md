@@ -11,7 +11,7 @@ OR <br />
 2. Execute `java SchedulerMain.java`
 
 ## Assumptions:
-1. The input file passed contains valid list of talks
+1. The input file passed contains valid list of talks in json format
 2. If conference has multiple tracks, each track will have their own KEYNOTE and CLOSING event.
 
 ## References:
